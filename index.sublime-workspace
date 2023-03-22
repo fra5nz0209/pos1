@@ -1,0 +1,853 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pull",
+				"pull-right "
+			],
+			[
+				"res",
+				"respuestaCliente"
+			],
+			[
+				"Controla",
+				"ControladorVentas"
+			],
+			[
+				"wr",
+				"writeHTML"
+			],
+			[
+				"startPa",
+				"startPageGroup"
+			],
+			[
+				"nueva",
+				"nuevaDescripcionProducto"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"agre",
+				"btnAgregarProducto"
+			],
+			[
+				"arrayS",
+				"arraySumaPrecio"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"confir",
+				"confirmButtonText"
+			],
+			[
+				"tite",
+				"title"
+			],
+			[
+				"nue",
+				"nuevoPrecioProducto"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"fun",
+				"funcionForEach"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"nuevo",
+				"nuevoPrecioProducto"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"P",
+				"post"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"com",
+				"comm\tComment - Single-line block comment"
+			],
+			[
+				"Controlador",
+				"ControladorUsuarios"
+			],
+			[
+				"card",
+				"card-body"
+			],
+			[
+				"card-",
+				"card-footer"
+			],
+			[
+				"fa-t",
+				"fa-times"
+			],
+			[
+				"in",
+				"input-group-text"
+			],
+			[
+				"hidden-",
+				"hidden-xs "
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"col-x",
+				"col-xs-3 "
+			],
+			[
+				"a",
+				"agregarProducto"
+			],
+			[
+				"btn-da",
+				"btn-danger "
+			],
+			[
+				"col-xs",
+				"col-xs-6 "
+			],
+			[
+				"modalAgre",
+				"modalAgregarCliente"
+			],
+			[
+				"fa",
+				"fa-user"
+			],
+			[
+				"_",
+				"$_GET\tGET['…']"
+			],
+			[
+				"Controlado",
+				"ControladorProductos"
+			],
+			[
+				"ed",
+				"editarCategoria"
+			],
+			[
+				"editarC",
+				"editarCodigo"
+			],
+			[
+				"ca",
+				"categoria"
+			],
+			[
+				"Contro",
+				"ControladorCategorias"
+			],
+			[
+				"fet",
+				"fetchAll"
+			],
+			[
+				"con",
+				"conectar"
+			],
+			[
+				"_S",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"cols",
+				"col-sm-3 "
+			],
+			[
+				"form",
+				"form-control "
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"hid",
+				"hidden-lg "
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"form-control",
+				"form-control "
+			],
+			[
+				"hidden",
+				"hidden-xs "
+			],
+			[
+				"hide",
+				"hidden "
+			],
+			[
+				"col-lg",
+				"col-lg-7 "
+			],
+			[
+				"col-",
+				"col-lg-5 "
+			],
+			[
+				"Ajax",
+				"ajaxClientes"
+			],
+			[
+				"co",
+				"controladores"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"nuevoCe",
+				"nuevoCelular"
+			],
+			[
+				"fa-",
+				"fa-key"
+			],
+			[
+				"confirmbu",
+				"confirmButtonText"
+			],
+			[
+				"cancelb",
+				"cancelButtonText"
+			],
+			[
+				"cancelbutt",
+				"cancelButtonColor"
+			],
+			[
+				"ConfirmB",
+				"confirmButtonColor"
+			],
+			[
+				"Controlad",
+				"ControladorCategorias"
+			],
+			[
+				"ajaxEd",
+				"ajaxEditarCategoria"
+			],
+			[
+				"Conto",
+				"ControladorCategorias"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"confirmB",
+				"confirmButtonText"
+			],
+			[
+				"war",
+				"warning"
+			],
+			[
+				"aja",
+				"ajaxValidarUsuario"
+			],
+			[
+				"ajax",
+				"ajaxActivarUsuario"
+			],
+			[
+				"valor",
+				"valor1"
+			],
+			[
+				"mdl",
+				"mdlActualizarUsuario"
+			],
+			[
+				"item",
+				"item2"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"activar",
+				"activarUsuario"
+			],
+			[
+				"conten",
+				"contentType"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"editar",
+				"btnEditarUsuario"
+			],
+			[
+				"usu",
+				"usuarios.modelo.php"
+			],
+			[
+				"json",
+				"json_encode()"
+			],
+			[
+				"process",
+				"processData"
+			],
+			[
+				"Con",
+				"ControladorUsuarios"
+			],
+			[
+				"_s",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"imagejp",
+				"imagejpeg()"
+			],
+			[
+				"de",
+				"destino"
+			],
+			[
+				"imagecopyre",
+				"imagecopyresized()"
+			],
+			[
+				"even",
+				"event"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"nuevor",
+				"nuevoUsuario"
+			],
+			[
+				"usua",
+				"usuario"
+			],
+			[
+				"input",
+				"input-lg "
+			],
+			[
+				"input-group-a",
+				"input-group-addon "
+			],
+			[
+				"btn-s",
+				"btn-success "
+			],
+			[
+				"table",
+				"table-striped "
+			],
+			[
+				"tabl",
+				"table-bordered "
+			],
+			[
+				"cen",
+				"text-center "
+			],
+			[
+				"sesi",
+				"session_destroy()"
+			],
+			[
+				"sessi",
+				"session_start()"
+			],
+			[
+				"_se",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"ing",
+				"ingPassword"
+			],
+			[
+				"preg",
+				"preg_match()"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"login",
+				"login-page"
+			],
+			[
+				"div",
+				"date_interval_format()"
+			],
+			[
+				"php",
+				"productos.controlador.php"
+			],
+			[
+				"dr",
+				"dropdown-menu "
+			],
+			[
+				"hidd",
+				"hidden-xs "
+			],
+			[
+				"dropdow",
+				"dropdown-toggle "
+			],
+			[
+				"Comm",
+				"comm-html"
+			],
+			[
+				"Comm-section",
+				"comm-section"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "index.sublime-project",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"unsaved": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Repository"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.800003052,
+		"history":
+		[
+			"a=1",
+			"open configuracon ",
+			"print 1",
+			"print \"helo word\";",
+			"print \"helo word\"",
+			"configuracion ",
+			"go",
+			"ho}"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/pos1/vistas/modulos/ventasi.php",
+		"/C/xampp/htdocs/pos1/vistas/js/cargarFactura.js",
+		"/C/xampp/htdocs/pos1/modelos/ventasi.modelo.php",
+		"/C/xampp/htdocs/pos1/controladores/ventasi.controlador.php",
+		"/C/xampp/htdocs/pos1/controladores/ventas.controlador.php",
+		"/C/xampp/htdocs/pos1/controladores/cargar_venta.controlador.php",
+		"/C/Users/Lety0/AppData/Roaming/Sublime Text/Packages/User/compilar-java.sublime-build",
+		"/C/xampp/htdocs/pos1/ajax/ventas.ajax.php",
+		"/C/xampp/htdocs/pos1/controladores/productos.controlador.php",
+		"/C/xampp/htdocs/pos1/modelos/ventas.modelo.php",
+		"/C/xampp/htdocs/pos1/modelos/productos.modelo.php",
+		"/C/xampp/htdocs/pos1/vistas/plantilla.php",
+		"/C/xampp/htdocs/pos1/extensiones/TCPDF/examples/factura.php",
+		"/C/xampp/htdocs/pos1/vistas/js/ventas.js",
+		"/C/xampp/htdocs/pos1/vistas/modulos/crear-venta.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/ventas.php",
+		"/C/xampp/htdocs/pos1/extensiones/tcpdf/examples/facturas.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/editar-venta.php",
+		"/C/xampp/htdocs/pos1/controladores/usuarios.controlador.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/clientes.php",
+		"/C/xampp/htdocs/pos1/controladores/clientes.controlador.php",
+		"/C/xampp/htdocs/pos1/modelos/clientes.modelo.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/ventas.html.php",
+		"/C/xampp/htdocs/pos1/vistas/plugins/jqueryNumber/jquerynumber.min.js",
+		"/C/xampp/htdocs/pos1/ajax/datatable-ventas.ajax.php",
+		"/C/xampp/htdocs/pos1/ajax/productos.ajax.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/productos.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/crear-venta.html.php",
+		"/C/xampp/htdocs/pos1/vistas/plugins/jquery-ui/jquery-ui.js",
+		"/C/xampp/htdocs/pos1/ajax/clientes.ajax.php",
+		"/C/xampp/htdocs/pos1/vistas/js/productos.js",
+		"/C/xampp/htdocs/pos1/vistas/modulos/productos.html2.php",
+		"/C/xampp/htdocs/pos1/ajax/datatable-productos.ajax.php",
+		"/C/xampp/htdocs/pos/vistas/js/productos.js",
+		"/C/xampp/htdocs/pos/ajax/datatable-productos.ajax.php",
+		"/C/xampp/htdocs/pos1/vistas/js/producto.js",
+		"/C/xampp/htdocs/pos1/vistas/modulos/productos.html.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/crear-ventasi.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/crear-ventai.php",
+		"/C/xampp/htdocs/pos1/index.php",
+		"/C/xampp/htdocs/pos1/controladores/ventas.controladori.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/menu.php",
+		"/C/xampp/htdocs/pos1/modelos/ventas.modeloi.php",
+		"/C/xampp/htdocs/pos1/vistas/js/clientes.js",
+		"/C/xampp/htdocs/pos1/vistas/modulos/categorias.php",
+		"/C/xampp/htdocs/pos1/modelos/categorias.modelo.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/clientes.html.php",
+		"/C/xampp/htdocs/AdminLTE-3.2.0/pages/forms/advanced.html",
+		"/C/xampp/htdocs/pos1/vistas/js/plantilla.js",
+		"/C/xampp/htdocs/pos/vistas/modulos/productos.php",
+		"/C/xampp/htdocs/pos1/ajax/categorias.ajax.php",
+		"/C/xampp/htdocs/pos1/vistas/js/categorias.js",
+		"/C/xampp/htdocs/pos1/controladores/categorias.controlador.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/usuarios.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/categorias.html.php",
+		"/C/xampp/htdocs/pos1/modelos/usuarios.modelo.php",
+		"/C/xampp/htdocs/pos1/vistas/js/usuarios.js",
+		"/C/xampp/htdocs/pos1/ajax/usuarios.ajax.php",
+		"/C/xampp/htdocs/pos/controladores/usuarios.controlador.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/inicio.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/cabezote.php",
+		"/C/xampp/htdocs/pos1/vistas/img/usuarios/lllllll/698.jpg",
+		"/C/xampp/htdocs/pos1/vistas/img/usuarios/zzzzz/224.jpg",
+		"/C/xampp/htdocs/pos1/vistas/img/usuarios/zzzzz/150.jpg",
+		"/C/xampp/htdocs/pos/vistas/js/usuarios.js",
+		"/C/xampp/htdocs/pos/vistas/modulos/usuarios.php",
+		"/C/xampp/htdocs/pos/vistas/plantilla.php",
+		"/C/xampp/htdocs/AdminLTE-3.2.0/pages/UI/modals.html",
+		"/C/xampp/htdocs/pos1/vistas/modulos/login.php",
+		"/C/xampp/htdocs/pos/controladores/productos.controlador.php",
+		"/C/xampp/htdocs/AdminLTE-3.2.0/index3.html",
+		"/C/xampp/htdocs/AdminLTE-3.2.0/index.html",
+		"/C/xampp/htdocs/pos1/vistas/modulos/usuarios.html.php",
+		"/C/xampp/htdocs/pos/vistas/modulos/inicio.php",
+		"/C/xampp/htdocs/pos1/controladores/plantilla.controlador.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/salir.php",
+		"/C/xampp/htdocs/AdminLTE-3.2.0/index2.html",
+		"/C/xampp/htdocs/AdminLTE-3.2.0/pages/examples/blank.html",
+		"/C/xampp/htdocs/AdminLTE-3.2.0/pages/tables/data.html",
+		"/C/xampp/htdocs/pos1/vistas/dist/css/adminlte.css",
+		"/C/xampp/htdocs/AdminLTE-3.2.0/dist/css/adminlte.css",
+		"/C/xampp/htdocs/pos1/modelos/conexion.php",
+		"/C/xampp/htdocs/pos/vistas/modulos/login.php",
+		"/C/xampp/htdocs/pos/modelos/conexion.php",
+		"/C/xampp/htdocs/pos/modelos/usuarios.modelo.php",
+		"/C/xampp/htdocs/AdminLTE-3.2.0/pages/examples/login-v2.html",
+		"/C/xampp/htdocs/AdminLTE-3.2.0/pages/examples/login.html",
+		"/C/xampp/htdocs/pos1/vistas/modulos/404.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/reportes.php",
+		"/C/xampp/htdocs/pos1/vistas/modulos/footer.php",
+		"/C/xampp/htdocs/pos1/.htaccess",
+		"/C/xampp/htdocs/pos/index.php",
+		"/C/xampp/htdocs/pos/vistas/bower_components/ckeditor/samples/toolbarconfigurator/font/config.json",
+		"/C/xampp/htdocs/pos/.htaccess",
+		"/C/xampp/htdocs/pos/controladores/plantilla.controlador.php"
+	],
+	"find":
+	{
+		"height": 29.6
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.sublime-project",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JSON/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.6
+	},
+	"input":
+	{
+		"height": 78.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
