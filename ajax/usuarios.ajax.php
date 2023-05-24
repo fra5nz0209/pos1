@@ -101,8 +101,15 @@ if(isset($_POST["validarUsuario"])){
 
 }
 
+/*============================================= 
+=  VALIDAR NO REPETIR cero dos purebs                =
+=============================================*/
 
 
+if(isset($_POST["validarprueba"])){
 
+	$valPrueba = new ajaxPrueba();
+	$valPrueba -> validarPrueba = $_POST["validarPrueba"];
+	$valPrueba -> ajaxValidarPrueba();
 
-
+}
