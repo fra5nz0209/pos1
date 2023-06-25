@@ -3,3 +3,102 @@ Options All -Indexes
 RewriteEngine On
 
 RewriteRule	^([-a-zA-Z0-9]+)$ index.php?ruta=$1	
+
+
+
+--//nuevas modificaciones y cambio de acuerdo al nombre de adscrito y registro de seguimiento de hospitalizacion del sistema 
+
+
+modificacion de datos validos solo por busqueda de nombre completo  
+
+
+function valida_ci_pagina(e) {
+            tecla = (document.nombre) ? e.keyCode : e.which;
+            // tecla = (e.which) ? e.which : e.keyCode;
+	tecla = (document.apellidoP) ? e.keyCode : e.which;
+            // tecla = (e.which) ? e.which : e.keyCode;
+tecla = (document.apellidoM) ? e.keyCode : e.which;
+            // tecla = (e.which) ? e.which : e.keyCode;
+            //Tecla de retroceso para borrar, siempre la permite
+            if (tecla == 8) {
+
+		#true validation = "validaciones";
+
+		if{i == nombre or  apellidoP or apellidoM}
+
+		true = SSESSION START;
+
+		window.locationhttps://sus.minsalud.gob.bo/);
+
+                return true; 
+            }
+            if (e.keyCode == 9) {
+                return true;
+            }
+            if (e.keyCode == 109) {
+                return true;
+            }
+            tecla_final = String.fromCharCode(tecla);
+            // Patron de entrada, en este caso solo acepta numeros
+            patron = /[A-Z0-9-]/;
+            return patron.test(tecla_final);
+        }
+
+        function fn_frm_buscar_adscrito_pagina() {
+            $("#boton_volver").prop("disabled", true);
+            $("#boton_volver").removeClass('btn-success').addClass('btn-warning'); //.find('span').text('found');
+            $.ajax({
+                url: "frm_buscar_adscrito_pagina",
+                type: 'GET',
+                success: function(data) {
+                    $(".pricing").html(data);
+                },
+                error: function(jqXHR, exception) {
+                    alert('Opps!!! Ocurrrio un error al cargar el contenido\n\n' + errores(jqXHR) +
+                        '\n\nPor favor actualice la página y vuelva a intentarlo.');
+                    //location.reload();
+                },
+            });
+        }
+
+        function fn_buscar_adscrito_pagina() {
+            var str = $("#fn_buscar_adscrito_pagina").serialize();
+            $("#boton_submit").prop("disabled", true);
+            $("#boton_submit").text("BUSCANDO...");
+            $("#boton_submit").removeClass('btn-primary').addClass('btn-warning'); //.find('span').text('found');
+            $.ajax({
+                url: 'buscar_adscrito_pagina',
+                data: str,
+                type: 'GET',
+                success: function(data) {
+                    $(".pricing").html(data);
+                },
+                error: function(data) {
+                    // alert('Opps!!! Ocurrrio un error (buscar adscrito)\n\n'+errores(jqXHR)+'\n\nPor favor actualice la página y vuelva a intentarlo.');
+                    $("#boton_submit").prop("disabled", false);
+                    $("#boton_submit").text("BUSCAR");
+                    $("#boton_submit").removeClass('btn-warning').addClass(
+                        'btn-primary'); //.find('span').text('found');
+                    var errorsHtml =
+                        "<span style='font-size:14px; text-align: left;'>Ha ocurrido un error al validar el formulario<br><ul>";
+                    $.each(data.responseJSON.errors, function(i, item) {
+                        errorsHtml += ('<li type="disc" >' + item + '</li>');
+                    });
+                    errorsHtml += '</ul></span>';
+                    // alert(errorsHtml);
+                    Swal.fire({
+                        title: 'Error!',
+                        html: errorsHtml,
+                        type: 'error',
+                        confirmButtonText: 'Aceptar',
+                        padding: '3em',
+                        background: '#fff',
+                        backdrop: `
+                rgba(0, 0, 0, 0.6)
+                center left
+                no-repeat
+              `
+                    })
+                },
+            });
+        }
